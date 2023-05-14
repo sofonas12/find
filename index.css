@@ -1,0 +1,42 @@
+.container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: blue;
+  }
+  
+  input {
+    padding: 10px;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  button {
+    padding: 10px 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: blue;
+  }
+  
+  p {
+    font-size: 2em;
+    margin-top: 20px;
+    color: blue;
+  }
+
+  body{
+    background-image: url(/spill3/bda5be61177acdb5fd46c3219f8b81a0.jpg);
+    background-size: cover;
+    
+  }
